@@ -13,3 +13,8 @@ EXCERCISE 3 (ex3.sh)
 EXERCISE 4 (ex4.sh)
 -> The aim of this excercise was to make a file backup for all the ".c" files contained in the directory. For that, a for loop was used and the cp command was used with the ".back" extension.
 
+EXCERCISE 5 (ex5.sh)
+-> The aim of this excercise was to create a while loop that counted from 1 to 10 and expressed the counting update.
+
+EXCERCISE 6 (ex6.sh)
+-> This excercise was a little bit difficult since the goal was to create directories, logs, ".c" files and create backups. That's why, the content was not that good, and was very difficult to execute. The code can be seen in the "ex6.sh" file.

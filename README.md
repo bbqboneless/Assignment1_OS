@@ -1,1 +1,15 @@
 # Assignment1_OS
+The excercises contained in this assignment are explained as follows:
+
+EXCERCISE 1 (ex1.sh)
+-> The aim of this excercise was to create a script that when run in the terminal, would print the string "Hello World!". For that, the command echo followed by the string were written.
+
+EXCERCISE 2 (ex2.sh)
+-> The aim of the excercise was to check the Current Working Directory as well as the Disk Usage. For that, the commands pwd and du ./* were used. And other sorting and visualization commands were added.
+
+EXCERCISE 3 (ex3.sh)
+-> The aim of the excercise was to visualize some information about the user, and date and calendar were displayed using the date, who and cal commands.
+
+EXERCISE 4 (ex4.sh)
+-> The aim of this excercise was to make a file backup for all the ".c" files contained in the directory. For that, a for loop was used and the cp command was used with the ".back" extension.
+
